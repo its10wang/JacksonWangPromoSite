@@ -1,0 +1,38 @@
+
+body{
+  background-image:url("tw.jpg");
+}
+h1{
+  border-style: outset;
+  border-width: 5px;
+  border-color:grey;
+  text-align: center;
+  font-family: impact ;
+font-weight: bold;
+font-size: 50px;
+  color: white;
+}
+span{
+  color: white;
+  font-family:impact;
+  font-style: normal;
+  font-weight: bold;
+  text-align: justify;
+  white-space: nowrap;
+  text-shadow: 2px 2px 5px black;
+}
+h2{
+  color:white;
+  font-family: impact;
+  font-weight:200;
+  font-size:40px;
+}
+p{
+  border-style: dotted;
+border-color: grey;
+color:white;
+bor
+}
+
+
+}
